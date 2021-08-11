@@ -1,0 +1,30 @@
+
+Qt wiht C++
+
+Qt is built on top of C++ and Qt Core is using C++ TO manipulate Qt and buil an actual program at all.
+
+What is Qt?
+Well, it's libraries written in C++ is kind of the standard generic answer.
+However, it's a little bit demeaning because cute has grown way beyond what I would even consider a
+framework and is pretty much an entire ecosystem for developers.
+Pretty much C++ can do anything and Cute is written in C++, so cute can do anything and it runs almost anywhere.
+They mean that.
+I mean anywhere.
+So cute covers everything from basic applications all the way up to no joke, high performance, multithreaded
+TCP servers with a 3D headset touch screen display. Yes, you can actually do that in cute.
+Believe me, I've done it. It's actually insanely cool.
+This technology takes really challenging problems and makes them very straightforward and very simple.
+Now, the really cool part about Q is the same code base that runs on a desktop can run on a dashboard,
+a mobile device and embedded system pretty much anywhere C++ runs.
+The technology is just insane once you actually wrap your head around it.
+
+what can you make with cute?
+Well, basically anything and I hate giving that answer because they kind of roll their eyes and goes,
+well, yeah, anything I mean, it anything you can build in C++, you can build with cute.
+So console applications, mobile applications, embedded desktop, pretty much anything.
+So for example, the I.T. we're going to use cute creator was created with cute.
+Chances are a lot of the popular applications you use, even video games are created with cute.
+If you have a fancy TV or a like a refrigerator with a touch screen display, there's probably cute
+running in that thing. It can do literally anything.
+It's just crazy.
+
