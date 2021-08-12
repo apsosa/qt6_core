@@ -28,3 +28,67 @@ If you have a fancy TV or a like a refrigerator with a touch screen display, the
 running in that thing. It can do literally anything.
 It's just crazy.
 
+Qt build process
+So let's hit the pause button for just a minute and let's talk about the C++ cute build process and
+this is slightly different than the standard C++ build process.
+So just like in normal C++, we would write some code, you'd see those files and CPP files.
+Those are the actual source code files that we as a developer would write.
+The preprocessor is going to run on those and figure out what sort of internal changes need to be made
+to prepare it for the compiler and add that time. Cute actually jumps right in the middle.
+There you see a little cute logo I put in there. It's going to run the mock or the meta object compiler.
+And what this does is it takes a lot of the goodness that is cute that we haven't yet talked about.
+And as all of that code in the background for us. So we don't have to do it.
+So, for example, you can have two objects.
+Sports car and stoplight, and you wanted to send a signal from one object to another saying the light's
+green.
+Go ahead and go.
+Well, that is how cute injects all of that functionality in there, automatically using what's called
+a meta object compiler.
+We're going to talk about this a little later on.
+But basically what we're talking about are signals and slots along with object or meta information about
+objects.
+Cute has a lot of stuff that happens under the hood that often mystifies people.
+And that's why I put the slide in here.
+So really at a high level, we write the code, the preprocessor reprocesses cute, runs the mock,
+and then the compiler actually compiles all this down into object codes and then the linker builds the
+finished binary.
+
+
+How Qt uses C++
+So let's talk about how you use a C++ people often get the to confuse, so for clarity, Heute uses
+C++ or more appropriately cute is built or created in C++.
+It also uses parts of the standard library and even replicates part of the standard library.
+So when you see that acronym STD, that's shorthand for the standard library and it uses pointers.
+It uses a lot of pointers, which, if you don't know what that is, is raw memory access.
+We are telling the computer to go look at a chunk of memory and do something with it.
+It also uses classes, inheritance.
+Now, you may not even know what that means. Classes are essentially a blueprint.
+So let's say you want to build a house, you need to start from a blueprint.
+Once you have a blueprint, you can build many houses from that class.
+Now, let's say you want a house with a two car garage.
+You would take that blueprint and modify it a little bit at a garage that's called inheritance so you
+can take an existing blueprint and modify it.
+All right, templates is a little bit challenging to really explain without showing an example, we're
+going to dive into that much later.
+But at its core, let's say you wanted to do something like a basic function clean.
+Well, what do you want to clean?
+A house, a car, a hot tub. That's what a template is.
+And it really makes it a generic high level version of, say, go clean this thing or go do this.
+Now, cute really lacks built air handling, and that's one of the criticisms of it, but we're going
+to use the C++ error handling, I should actually call it exception handling, because there's a difference
+between errors and exceptions, which we'll talk about much later.
+But understand that an error is pretty much something that we have no control over.
+So, for example, the desk being full of the computer dyeing reception is like a programmer made problem,
+like a division by zero, something that we should handle and then object copies are forbidden.
+What does that really mean?
+One object is an instance of that blueprint. We're talking about classes here.
+So you take your blueprint, create an object. That object lives in memory.
+However, in C++ you can do something called a copy, which makes literally a copy or a clone of that
+object. Cute does not like doing that. Hence we have to use pointers.
+All of this may sound super, super confusing, but we're going to cover the bulk of this in this course.
+I just wanted to let you know up front, in case you have some C++ experience, what you can really expect.
+
+QT app VS c++ app
+
+Qt make VS Cmake
+

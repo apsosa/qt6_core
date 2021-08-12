@@ -1,0 +1,8 @@
+# ninja log v5
+0	64	1628711934364617752	qt-app_autogen/timestamp	3eabe1981824fb66
+0	64	1628711934364617752	qt-app_autogen/mocs_compilation.cpp	3eabe1981824fb66
+0	64	1628711934364617752	/home/patricio/Desktop/qt6_core/build-qt-app-Desktop_Qt_6_0_4_GCC_64bit-Debug/qt-app_autogen/timestamp	3eabe1981824fb66
+0	64	1628711934364617752	/home/patricio/Desktop/qt6_core/build-qt-app-Desktop_Qt_6_0_4_GCC_64bit-Debug/qt-app_autogen/mocs_compilation.cpp	3eabe1981824fb66
+64	218	1628711934536627448	CMakeFiles/qt-app.dir/qt-app_autogen/mocs_compilation.cpp.o	99ceee584d3a8c52
+72	5798	1628711940112940822	CMakeFiles/qt-app.dir/main.cpp.o	1ef80b17f9a477b8
+5801	6118	1628711940432958746	qt-app	ed8590f79f09c5dd

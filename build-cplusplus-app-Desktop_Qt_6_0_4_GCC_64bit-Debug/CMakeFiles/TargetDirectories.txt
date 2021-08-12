@@ -1,0 +1,3 @@
+/home/patricio/Desktop/qt6_core/build-cplusplus-app-Desktop_Qt_6_0_4_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/patricio/Desktop/qt6_core/build-cplusplus-app-Desktop_Qt_6_0_4_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/patricio/Desktop/qt6_core/build-cplusplus-app-Desktop_Qt_6_0_4_GCC_64bit-Debug/CMakeFiles/cplusplus-app.dir

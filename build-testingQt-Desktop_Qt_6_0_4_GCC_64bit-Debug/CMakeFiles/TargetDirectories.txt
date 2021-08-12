@@ -1,0 +1,5 @@
+/home/patricio/Desktop/qt6_core/build-testingQt-Desktop_Qt_6_0_4_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/patricio/Desktop/qt6_core/build-testingQt-Desktop_Qt_6_0_4_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/patricio/Desktop/qt6_core/build-testingQt-Desktop_Qt_6_0_4_GCC_64bit-Debug/CMakeFiles/testingQt.dir
+/home/patricio/Desktop/qt6_core/build-testingQt-Desktop_Qt_6_0_4_GCC_64bit-Debug/CMakeFiles/testingQt_autogen_timestamp_deps.dir
+/home/patricio/Desktop/qt6_core/build-testingQt-Desktop_Qt_6_0_4_GCC_64bit-Debug/CMakeFiles/testingQt_autogen.dir
